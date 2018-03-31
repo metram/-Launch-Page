@@ -1,5 +1,7 @@
 # Странички заглушки
 
+https://github.com/metram/Launch-Page
+
 Landing page, Parking page, Coming Soon Page, Launch Page.
  
 Coming Soon - Если это просто страничка с лого и надписью. 
